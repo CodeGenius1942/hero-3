@@ -9,5 +9,3 @@ hamburger.addEventListener("click", () => {
 timesCircle.addEventListener("click", () => {
     menu.style.display = "none";
 });
-
-console.log('i love the way git work');
